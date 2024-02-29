@@ -1,2 +1,3 @@
 # Exercicio5POO
-Exercicio 5 POO
+Projeto com códigos discutidos na aula de POO
+
